@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [Netcracker](https://www.netcracker.com/)
 
-- 🌱 I’m currently learning **Java (in general) and Golang**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexduzi](https://github.com/alexduzi)
 
-- 💬 Ask me about **java, spring boot**
+- 💬 Ask me about **java, spring boot, golang, c# .net, typescript, backend, system design**
 
 - 📫 How to reach me **duzihd@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alex-duzi-9b989259/](https://www.linkedin.com/in/alex-duzi-9b989259/)
 
-- ⚡ Fun fact **Worked with c# .net for 8 years and then migrated to java. It's been 6 years working with java + spring boot and now i'm learning golang!**
+- ⚡ Fun fact **I've worked with different programming languages in 14 years of experience now i'm putting focus to learning golang!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
