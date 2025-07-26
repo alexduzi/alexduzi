@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexduzi](https://github.com/alexduzi) those projects have the only purpose of study and enforce my knowledge
+- 👨‍💻 All of my projects are available at [https://github.com/alexduzi](https://github.com/alexduzi) those projects have the only purpose of study and reinforce my knowledge
 
-- 💬 Ask me about **java, spring boot, golang, c# .net, typescript, backend, system design, web development**
+- 💬 Ask me about **golang, java, c# .net, typescript, data structure algorithms, backend, system design, web development**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alex-duzi-9b989259/](https://www.linkedin.com/in/alex-duzi-9b989259/)
 
-- ⚡ Fun fact **14 years of experience in software development, currently focusing to learning golang**
+- ⚡ Fun fact **14 years of experience in software development, currently focusing on golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
